@@ -1,0 +1,8 @@
+April 3, 5:00PM: Youssef worked on the implementation of the r-type instructions and the branching instructions.
+April 3, 7:00PM: youssef worked on the load and store type instructions and finished them.
+April 5, 7:00PM: Seif worked on the i-type instructions, lui, auipc and halting instructions.
+April 6, 2:00PM: Seif and Youssef sat and completed the any missing instructions.
+April 6, 3:00PM: Seif and Youssef started testing the simulator and did regression testing on lab 6 program to make sure it works.
+April 6, 4:00PM: Seif and Youssef fixed Branching in the lab 6 program caused by the ALU_control.
+April 9, 2:00PM: Seif and Youssef started testing all 42 instructions and completed tests up except r-type and memory instructions.
+April 10, 3:00PM: Seif and Youssef completed testing all 42 instructions.
